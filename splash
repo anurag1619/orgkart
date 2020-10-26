@@ -2,26 +2,11 @@
 	"v": {
 		"i": "https://raw.githubusercontent.com/anurag1619/images/master/vegetable.png",
 		"d": {
-			"1": {
-				"n": "potato",
-				"i": "https: //raw.githubusercontent.com/anurag1619/images/master/potato_corner.png"
-			},
-			"2": {
-				"n": "tomato",
-				"i": "https: //raw.githubusercontent.com/anurag1619/images/master/tomato_corner.png"
-			},
-			"3": {
-				"n": "cabage",
-				"i": "https: //raw.githubusercontent.com/anurag1619/images/master/cabage_corner.png"
-			},
-			"4": {
-				"n": "capsicum",
-				"i": "https: //raw.githubusercontent.com/anurag1619/images/master/capsicum_corner.png"
-			},
-			"5": {
-				"n": "cauliflower",
-				"i": "https: //raw.githubusercontent.com/anurag1619/images/master/cabage_corner.png"
-			}
+			"potato": "https: //raw.githubusercontent.com/anurag1619/images/master/potato_corner.png",
+			"tomato": "https: //raw.githubusercontent.com/anurag1619/images/master/tomato_corner.png",
+			"cabage": "https: //raw.githubusercontent.com/anurag1619/images/master/cabage_corner.png",
+			"capsicum": "https: //raw.githubusercontent.com/anurag1619/images/master/capsicum_corner.png",
+			"cauliflower": "https: //raw.githubusercontent.com/anurag1619/images/master/cabage_corner.png"
 		}
 	}
 }
