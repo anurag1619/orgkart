@@ -40,25 +40,25 @@
 			"1": {
 				"n": "Graps",
 				"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/graps.png",
-				"c": "#D3DC5F",
+				"c": "#d4dd5f",
 				"p": "30"
 			},
 			"2": {
 				"n": "Guava",
 				"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/guava.png",
-				"c": "#A8B751",
+				"c": "#a9b851",
 				"p": "40"
 			},
 			"3": {
 				"n": "Papaya",
 				"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/papaya.png",
-				"c": "#FC6522",
+				"c": "#fe6522",
 				"p": "25"
 			},
 			"4": {
 				"n": "Pomegranate",
 				"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/pomegranate.png",
-				"c": "#C31326",
+				"c": "#c41326",
 				"p": "60"
 			}
 		}
