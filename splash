@@ -1,66 +1,68 @@
-{
-	"v": {
-		"i": "https://raw.githubusercontent.com/anurag1619/images/master/vegetable.png",
-		"d": {
-			"1": {
-				"n": "potato",
-				"i": "https://raw.githubusercontent.com/anurag1619/images/master/potato_corner.png",
-				"c": "#A76D21",
-				"p": "20"
-			},
-			"2": {
-				"n": "tomato",
-				"i": "https://raw.githubusercontent.com/anurag1619/images/master/tomato_corner.png",
-				"c": "#EB301C",
-				"p": "30"
-			},
-			"3": {
-				"n": "cabage",
-				"i": "https://raw.githubusercontent.com/anurag1619/images/master/cabage_corner.png",
-				"c": "#96BC49",
-				"p": "45"
-			},
-			"4": {
-				"n": "capsicum",
-				"i": "https://raw.githubusercontent.com/anurag1619/images/master/capsicum_corner.png",
-				"c": "#83A745",
-				"p": "25"
-			},
-			"5": {
-				"n": "cauliflower",
-				"i": "https://raw.githubusercontent.com/anurag1619/images/master/cauliflower_corner.png",
-				"c": "#EDDB99",
-				"p": "25"
-			}
-		}
-	},
-	"f": {
-		"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/fruits%20background.png",
-		"d": {
-			"1": {
-				"n": "Graps",
-				"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/graps.png",
-				"c": "#d4dd5f",
-				"p": "30"
-			},
-			"2": {
-				"n": "Guava",
-				"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/guava.png",
-				"c": "#a9b851",
-				"p": "40"
-			},
-			"3": {
-				"n": "Papaya",
-				"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/papaya.png",
-				"c": "#fe6522",
-				"p": "25"
-			},
-			"4": {
-				"n": "Pomegranate",
-				"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/pomegranate.png",
-				"c": "#c41326",
-				"p": "60"
-			}
-		}
-	}
-}
+  {
+  	"delivery": "40",
+  	"min": "100",
+  	"v": {
+  		"i": "https://raw.githubusercontent.com/anurag1619/images/master/vegetable.png",
+  		"d": {
+  			"1": {
+  				"n": "potato",
+  				"i": "https://raw.githubusercontent.com/anurag1619/images/master/potato_corner.png",
+  				"c": "#A76D21",
+  				"p": "20"
+  			},
+  			"2": {
+  				"n": "tomato",
+  				"i": "https://raw.githubusercontent.com/anurag1619/images/master/tomato_corner.png",
+  				"c": "#EB301C",
+  				"p": "30"
+  			},
+  			"3": {
+  				"n": "cabage",
+  				"i": "https://raw.githubusercontent.com/anurag1619/images/master/cabage_corner.png",
+  				"c": "#96BC49",
+  				"p": "45"
+  			},
+  			"4": {
+  				"n": "capsicum",
+  				"i": "https://raw.githubusercontent.com/anurag1619/images/master/capsicum_corner.png",
+  				"c": "#83A745",
+  				"p": "25"
+  			},
+  			"5": {
+  				"n": "cauliflower",
+  				"i": "https://raw.githubusercontent.com/anurag1619/images/master/cauliflower_corner.png",
+  				"c": "#EDDB99",
+  				"p": "25"
+  			}
+  		}
+  	},
+  	"f": {
+  		"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/fruits%20background.png",
+  		"d": {
+  			"1": {
+  				"n": "Graps",
+  				"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/graps.png",
+  				"c": "#d4dd5f",
+  				"p": "30"
+  			},
+  			"2": {
+  				"n": "Guava",
+  				"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/guava.png",
+  				"c": "#a9b851",
+  				"p": "40"
+  			},
+  			"3": {
+  				"n": "Papaya",
+  				"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/papaya.png",
+  				"c": "#fe6522",
+  				"p": "25"
+  			},
+  			"4": {
+  				"n": "Pomegranate",
+  				"i": "https://raw.githubusercontent.com/anurag1619/fruit/main/pomegranate.png",
+  				"c": "#c41326",
+  				"p": "60"
+  			}
+  		}
+  	}
+  }
