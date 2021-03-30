@@ -77,6 +77,40 @@
 					"t": "15"
 				}
 			}
+		},
+		"m": {
+			"n": "Milk",
+			"i": "https://raw.githubusercontent.com/anurag1619/milk/main/milk%20background.png",
+			"d": {
+				"1": {
+					"n": "Healthy",
+					"i": "https://raw.githubusercontent.com/anurag1619/milk/main/healthy.png",
+					"c": "#01addb",
+					"p": "30",
+					"t": "11"
+				},
+				"2": {
+					"n": "Gold",
+					"i": "https://raw.githubusercontent.com/anurag1619/milk/main/gold.png",
+					"c": "#f58634",
+					"p": "40",
+					"t": "12"
+				},
+				"3": {
+					"n": "Shakti",
+					"i": "https://raw.githubusercontent.com/anurag1619/milk/main/shakti.png",
+					"c": "#9fbd41",
+					"p": "25",
+					"t": "9"
+				},
+				"4": {
+					"n": "Smart",
+					"i": "https://raw.githubusercontent.com/anurag1619/milk/main/smart.png",
+					"c": "#fff112",
+					"p": "60",
+					"t": "15"
+				}
+			}
 		}
 	}
 }
